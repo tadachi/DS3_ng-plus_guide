@@ -1,5 +1,20 @@
 ## New Game Guide
 
+#### Table of Contents
+
+**[Coals](#coals)**  
+**[Umbral Ashes](#umbral-ashes)**  
+**[Estus Shard Locations](#estus-shard-locations)**  
+**[Undead Shards](#undead-shards)**  
+**[Rings](#rings)**  
+
+#### Coals
+
+1. **Farron Coal**: *Road of Sacrifices* - Spawn at the Halfway Fortress bonfire, then go down the road. When you reach the swamp, turn right and go all the way to the wall. Go through the door and turn left. Follow the corridor, past the Black Knight. The coal is on a pile of rubble at the end of the corridor.
+2. **Sage’s Coal**: *Road of Sacrifices* - Teleport to the Farron Keep bonfire, go into the swamp and head left, following the wall. You’ll see a tower at a certain point, guarded by a single Darkwraith. Defeat him and enter the tower. The coal will be on a corpse inside.
+3. **Giant's Coal**: *Anor Londo* -  Spawn at the Anor Londo bonfire and go up the stairs. Turn left when you get to the top (watch out for the Silver Knights) and enter the tower. You’ll see a dead giant on the tower floor, holding the coal in his hands.
+4. **Profaned Coal**: *Irithyll Dungeon* - Go to the lower part, where all the prison cells are. You should get to the room with a dozen or so masked enemies with branding irons. The coal is in one of the unlocked cells, the one with the crawling monsters.
+
 #### Umbral Ashes
 
 1. **Mortician’s Ashes**: *Undead Settlement* -  Spawn at the Dilapidated Bridge bonfire and go straight to the area where the giant throws his spears. The ashes are on a body by the tree to the left of the gate, near the wooden shack.
@@ -10,6 +25,9 @@
 6. **Hollow's Ashes**: *Untended Graves* - Once you beat the boss and enter Dark Firelink Shrine, go to the place where Yoel of Londor sits in the regular shrine (to the left of the anvil, down the stairs and in the far corridor). The ashes are on a corpse.
 7. **Prisoner Chief Ashes**: *Irithyll Dungeon* - Get Jailer’s Key Ring. teleport to the Irithyll Dungeon bonfire, go into the large prison room and jump down one floor. Go all the way to the right – the last cell you’ll see will have two doors and a fancy chair inside. The ashes are on the corpse on that chair.
 8. **Dragon Chaser's Ashes**: *Archdragon Peak* - where you fight Nameless King, on the path to where you get the twinkling dragon body stone. To the left of an archway, on a corpse being guarded by a Rock Lizard.
+
+#### Coals
+
 
 #### Estus Shard Locations
 
