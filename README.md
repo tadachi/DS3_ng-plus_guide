@@ -40,8 +40,8 @@
 
 #### Rings
 
-**Havel's Ring** - *Farron Keep* - Created with the Soul of a Stray Demon
-**Ring of Favor** - *Anor Londo* - Defeat Sulyvhan's Beasts near Archdeacon McDonnell
-**Knight's Ring** - *Lothric Castle*, near the Sunlight Shrine.
-**Hornet Ring** - Found in *Untended Graves*, behind a Black Knight standing guard where the Starved Hound is found when at the Firelink Shrine.
-**Scholar Ring** - *Grand Archives* - Get to the wooded bridge in the middle of the room
+- **Havel's Ring** - *Farron Keep* - Created with the Soul of a Stray Demon
+- **Ring of Favor** - *Anor Londo* - Defeat Sulyvhan's Beasts near Archdeacon McDonnell
+- **Knight's Ring** - *Lothric Castle*, near the Sunlight Shrine.
+- **Hornet Ring** - Found in *Untended Graves*, behind a Black Knight standing guard where the Starved Hound is found when at the Firelink Shrine.
+- **Scholar Ring** - *Grand Archives* - Get to the wooded bridge in the middle of the room
