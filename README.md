@@ -9,8 +9,8 @@ This is a curated list of items you should get in the middle and towards the end
 **[Estus Shard Locations](#estus-shard-locations)**  
 **[Undead Shards](#undead-shards)**  
 **[Rings](#rings)**  
-**[Titanite Slab](#titanite-slab)**  
-**[Pickle-Pee Trading](#Pickle-Pee-Trading)**  
+**[Titanite Slabs](#titanite-slabs)**  
+**[Pickle Pee Trading](#Pickle-Pee-Trading)**  
 
 #### Coals
 
@@ -66,7 +66,7 @@ This is a curated list of items you should get in the middle and towards the end
 - **Scholar Ring** - *Grand Archives* - Get to the wooded bridge in the middle of the room
 - **Hunter's Ring** - *Grand Archives*- Found at the top of a tower surrounded by three golden Winged Knights before the stairs to Prince Lothric.
 
-#### Titanite Slab
+#### Titanite Slabs
 - **Irithyl Dungeon** - 1x is given by Siegward of Catarina after completing his questline in *Irithyl Dungeon*.
 - **Grand Archives** - 1x can be found at the *Grand Archives*, after pulling a lever on the upper floor, a bookcase on the ground floor will shift its position. Hidden behind the bookcase is a chest containing a slab. It's on the floor with the giant wax tub and 3 enemies
 - **Lothric Castle** - 1x is obtained in *Lothric Castle* as a reward for killing the 3 golden winged knights at the very top of Lothric Castle. Start from the *Grand Archives bonfire* and use the elevator. Head towards the Lothric boss fight but immediately turn left to spiral up a staircase. Make your way across the roof to find 3 knights on a dome shaped roof.
@@ -75,6 +75,6 @@ This is a curated list of items you should get in the middle and towards the end
 - **Archdragon Peak** - 1x can be found in Archdragon Peak after killing the Nameless King. Walk ahead of the bonfire and loot the nearest corpse. Video Location
 - **Firelink Shrine** - 1x can be bought for 30,000 souls from the Shrine Handmaid once all the Cinders of a Lord are placed.
 
-#### Pickle-Pee Trading
+#### Pickle Pee Trading
 - Prism Stone -> Twinkling Titanite
 - Coiled Sword Fragment	-> Titanite Slab
